@@ -16,7 +16,7 @@ title: home
   <div class="hero">
 
     <div class="hero-text">
-      <h1>Hi, I’m Varalakshmi 👋</h1>
+      <h1>Hi, I’m Varalakshmi </h1>
       <h2>Entry-Level Software Developer</h2>
 
       <p>
