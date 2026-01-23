@@ -37,7 +37,7 @@ title: home
       </p>
 
       <div class="cta-buttons">
-        <a href="/project" class="btn">View Projects</a>
+        
         <a href="/resume" class="btn outline">View Resume</a>
       </div>
     </div>
