@@ -16,11 +16,11 @@ title: home
   <div class="hero">
 
     <div class="hero-text">
-      <h1>Hi, I’m Varalakshmi </h1>
+      <h1>Hi, I'm Varalakshmi </h1>
       <h2>Entry-Level Software Developer</h2>
 
       <p>
-        I’m a software developer with a background in mathematics and science education
+        I'm a software developer with a background in mathematics and science education
         and customer service, bringing strong problem-solving, communication, and
         user-focused thinking into software development.
       </p>
@@ -37,7 +37,7 @@ title: home
       </p>
 
       <div class="cta-buttons">
-        <a href="/projects" class="btn">View Projects</a>
+        <a href="/project" class="btn">View Projects</a>
         <a href="/resume" class="btn outline">View Resume</a>
       </div>
     </div>
