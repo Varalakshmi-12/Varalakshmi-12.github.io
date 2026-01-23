@@ -43,7 +43,7 @@ title: home
     </div>
 
     <div class="hero-image">
-      <img src="/assets/images/profile.jpg" alt="Varalakshmi - Software Developer">
+      <img src="/assets/images/homepage-image.jpg" alt="Varalakshmi - Software Developer">
     </div>
 
   </div>
