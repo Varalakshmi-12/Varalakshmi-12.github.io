@@ -1,0 +1,116 @@
+/* ===== GLOBAL ===== */
+
+body {
+  font-family: Arial, sans-serif;
+  margin: 0;
+  background: #ffffff;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* ===== PAGE CONTAINER ===== */
+
+section {
+  max-width: 1000px;
+  margin: auto;
+  padding: 2rem 1rem;
+}
+
+/* ===== HEADINGS ===== */
+
+h1 {
+  font-size: 2.2rem;
+  margin-bottom: 0.5rem;
+}
+
+h2 {
+  color: #0366d6;
+  margin-top: 2rem;
+}
+
+h3 {
+  margin-top: 1.5rem;
+}
+
+/* ===== HERO SECTION ===== */
+
+.hero {
+  display: flex;
+  flex-wrap: wrap;
+  align-items: center;
+  gap: 2rem;
+}
+
+.hero-text {
+  flex: 1;
+}
+
+.hero-image {
+  flex: 1;
+  text-align: center;
+}
+
+.hero-image img {
+  max-width: 100%;
+  border-radius: 10px;
+}
+
+/* ===== BUTTONS ===== */
+
+.btn {
+  display: inline-block;
+  background: #0366d6;
+  color: white;
+  padding: 10px 18px;
+  margin: 10px 10px 0 0;
+  text-decoration: none;
+  border-radius: 6px;
+  font-weight: bold;
+}
+
+.btn:hover {
+  background: #024a9a;
+}
+
+.btn.outline {
+  background: white;
+  color: #0366d6;
+  border: 2px solid #0366d6;
+}
+
+/* ===== PROJECT CARD ===== */
+
+.project-card {
+  border: 1px solid #ddd;
+  border-radius: 10px;
+  padding: 1.5rem;
+  margin-top: 2rem;
+  background: #fafafa;
+}
+
+.project-image {
+  width: 100%;
+  border-radius: 8px;
+  margin-bottom: 1rem;
+}
+
+/* ===== CONTACT ===== */
+
+.contact-info p {
+  margin: 0.8rem 0;
+  font-size: 1.1rem;
+}
+
+/* ===== RESUME ===== */
+
+.resume hr {
+  margin: 2rem 0;
+}
+
+/* ===== MOBILE ===== */
+
+@media (max-width: 768px) {
+  .hero {
+    flex-direction: column;
+  }
+}
