@@ -7,7 +7,7 @@
 
 
 layout: default
-title: home
+title: Home
 ---
 
 <!-- HERO SECTION -->
